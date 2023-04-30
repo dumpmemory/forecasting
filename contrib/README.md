@@ -4,8 +4,8 @@ The contrib directory contains code which is not part of the main Forecasting re
 
 Each project should live in its own subdirectory `/contrib/<project>` and contain a README.md file with detailed description what the project does and how to use it. In addition, when adding a new project, a brief description should be added to the table below.
 
-
 ## Projects
-| Directory | Project description |
-|---|---|
-| [\<project name and link\>] | \<short project description\> |
+
+| Directory                                           | Project description                                                                                             |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| AzureML Custom Hierarchical Time Series Forecasting | An approach to generate hierarchical time series forecasts even with low computational resources within 20 mins |
